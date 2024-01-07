@@ -1,0 +1,7 @@
+path: /Users/joonh/HCI (College)/CTP/CTP project/Chopfish
+train: images/train
+val: images/train
+
+names:
+  0: head
+  1: tail
